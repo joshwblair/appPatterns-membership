@@ -1,6 +1,6 @@
 {
   "name": "node_app_patterns-membership",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "membership module of application",
   "main": "index.js",
   "scripts": {
